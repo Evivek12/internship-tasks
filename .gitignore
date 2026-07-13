@@ -1,3 +1,4 @@
+
 .venv/
 **/.venv/
 __pycache__/
@@ -6,3 +7,8 @@ __pycache__/
 
 task5/dataset/
 task5/mask_detector.keras
+task6/fake_news.csv
+task6/news_model.pkl
+task6/vectorizer.pkl
+
+
