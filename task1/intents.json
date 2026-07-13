@@ -1,0 +1,111 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good Morning", "Good Evening"],
+      "responses": [
+        "Hello! Welcome to our Customer Support.",
+        "Hi! How can I assist you today?"
+      ]
+    },
+    {
+      "tag": "services",
+      "patterns": [
+        "What services do you provide?",
+        "Tell me about your services",
+        "Services"
+      ],
+      "responses": [
+        "We provide Web Development, AI Solutions, Mobile App Development and Technical Support."
+      ]
+    },
+    {
+      "tag": "payment",
+      "patterns": [
+        "Payment methods",
+        "How can I pay?",
+        "Online payment"
+      ],
+      "responses": [
+        "You can pay using UPI, Credit Card, Debit Card and Net Banking."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "Contact number",
+        "Customer care number",
+        "Phone number"
+      ],
+      "responses": [
+        "You can contact us at +91 9876543210."
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "Where are you located?",
+        "Office location",
+        "Address"
+      ],
+      "responses": [
+        "Our head office is located in Hyderabad, Telangana."
+      ]
+    },
+    {
+      "tag": "working_hours",
+      "patterns": [
+        "Working hours",
+        "Office timing",
+        "When are you open?"
+      ],
+      "responses": [
+        "We are available Monday to Saturday from 9:00 AM to 6:00 PM."
+      ]
+    },
+    {
+      "tag": "refund",
+      "patterns": [
+        "Refund policy",
+        "Can I get refund?",
+        "Money back"
+      ],
+      "responses": [
+        "Refunds are processed within 5-7 business days after approval."
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "Delivery time",
+        "Shipping",
+        "When will I receive my order?"
+      ],
+      "responses": [
+        "Most orders are delivered within 3 to 5 business days."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thank you",
+        "Thanks",
+        "Thank you so much"
+      ],
+      "responses": [
+        "You're welcome! Happy to help."
+      ]
+    },
+    {
+      "tag": "bye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you"
+      ],
+      "responses": [
+        "Thank you for visiting. Have a wonderful day!"
+      ]
+    }
+  ]
+}
