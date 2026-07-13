@@ -1,1 +1,8 @@
+.venv/
+**/.venv/
+__pycache__/
+*.pyc
 .DS_Store
+
+task5/dataset/
+task5/mask_detector.keras
