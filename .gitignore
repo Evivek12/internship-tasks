@@ -13,3 +13,5 @@ task6/vectorizer.pkl
 task7/digit_model.h5
 task8/similarity.pkl
 task8/movie_list.pkl
+task9/sentiment_model.pkl
+task9/vectorizer.pkl

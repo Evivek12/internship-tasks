@@ -1,0 +1,31 @@
+text,sentiment
+I love this product,Positive
+This is amazing,Positive
+Very good service,Positive
+I am so happy today,Positive
+Excellent experience,Positive
+Fantastic work,Positive
+I enjoyed using this app,Positive
+Best purchase ever,Positive
+I like this movie,Positive
+Everything is perfect,Positive
+I hate this product,Negative
+Worst experience ever,Negative
+Very bad service,Negative
+I am disappointed,Negative
+This app is terrible,Negative
+I will never use this again,Negative
+Awful quality,Negative
+Not worth the money,Negative
+Completely useless,Negative
+I am angry,Negative
+It is okay,Neutral
+Nothing special,Neutral
+Average experience,Neutral
+It's fine,Neutral
+Not bad,Neutral
+Can be improved,Neutral
+I have no opinion,Neutral
+Normal service,Neutral
+Works as expected,Neutral
+Acceptable quality,Neutral
