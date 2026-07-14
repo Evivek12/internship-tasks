@@ -10,5 +10,5 @@ task5/mask_detector.keras
 task6/fake_news.csv
 task6/news_model.pkl
 task6/vectorizer.pkl
-
+task7/digit_model.h5
 
