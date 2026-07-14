@@ -11,4 +11,5 @@ task6/fake_news.csv
 task6/news_model.pkl
 task6/vectorizer.pkl
 task7/digit_model.h5
-
+task8/similarity.pkl
+task8/movie_list.pkl
